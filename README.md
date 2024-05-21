@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rekhakaparapu
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning frontend technologies TML, CSS andJava Script.
+- 🌱 I’m currently learning frontend technologies HTML, CSS, JavaScript and Reactjs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
